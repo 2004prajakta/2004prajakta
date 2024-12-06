@@ -1,0 +1,12 @@
+- 👋 Hi, I’m **@2004prajakta** (Prajakta Subhash Chougule)  
+- 🎓 I’m a 3rd Year **B.Tech Computer Science** student at **N.K. Orchid College of Engineering, Solapur**.  
+- 👀 I’m interested in **Augmented Reality**, **Web Development**, and **Innovative Design Technologies**.  
+- 🌱 I’m currently learning **AR-based Interior Design Planning**, **Full Stack Development**, and exploring **Python APIs** for smart solutions.  
+- 💞️ I’m looking to collaborate on **Web Development Projects**, **AR/VR Solutions**, and **Creative Tech Applications**.  
+- 📫 How to reach me:  
+  - **Email**: [prajaktachougule2020@gmail.com](mailto:prajaktachougule2020@gmail.com)  
+  - **LinkedIn**: [Prajakta Subhash Chougule](https://www.linkedin.com/in/prajakta-chougule-12a21b24a/)  
+  - **Portfolio Website**: [Coming Soon! 🚀]  
+
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: I enjoy exploring the intersection of **technology** and **art** to create **unique experiences**. I also love to binge-watch sci-fi movies in my free time!  
