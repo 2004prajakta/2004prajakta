@@ -1,12 +1,9 @@
 - 👋 Hi, I’m **@2004prajakta** (Prajakta Subhash Chougule)  
-- 🎓 I’m a 3rd Year **B.Tech Computer Science** student at **N.K. Orchid College of Engineering, Solapur**.  
-- 👀 I’m interested in **Augmented Reality**, **Web Development**, and **Innovative Design Technologies**.  
-- 🌱 I’m currently learning **AR-based Interior Design Planning**, **Full Stack Development**, and exploring **Python APIs** for smart solutions.  
-- 💞️ I’m looking to collaborate on **Web Development Projects**, **AR/VR Solutions**, and **Creative Tech Applications**.  
-- 📫 How to reach me:  
-  - **Email**: [prajaktachougule2020@gmail.com](mailto:prajaktachougule2020@gmail.com)  
-  - **LinkedIn**: [Prajakta Subhash Chougule](https://www.linkedin.com/in/prajakta-chougule-12a21b24a/)  
-  - **Portfolio Website**: [Coming Soon! 🚀]  
+-I am a Computer Science Engineering graduate from Nagesh Karajagi Orchid College of Engineering & Technology, Solapur. Prior to my bachelor's degree, I completed my Diploma in Computer Engineering from Government Polytechnic, Solapur.
 
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: I enjoy exploring the intersection of **technology** and **art** to create **unique experiences**. I also love to binge-watch sci-fi movies in my free time!  
+I have a strong interest in Java Full Stack Development and enjoy building web applications using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript. Throughout my academic journey, I have worked on various projects that enhanced my problem-solving, programming, and software development skills.
+
+I am passionate about learning new technologies, developing innovative solutions, and continuously improving my technical expertise. I am currently seeking opportunities where I can apply my skills, contribute to meaningful projects, and grow as a Software Engineer.
+
+Skills: Java | Spring Boot | Hibernate | JDBC | MySQL | HTML5 | CSS3 | JavaScript | Git & GitHub
+
